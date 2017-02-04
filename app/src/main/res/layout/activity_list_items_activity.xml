@@ -7,7 +7,7 @@
     android:rowCount="2"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context="com.example.vallav.androidlabs.ListItemsActivityt">
+    tools:context="com.example.vallav.androidlabs.ListItemsActivity">
 
 
     <RadioButton
